@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="word_pl_backgroud">#66CCFF</color>
+    <color name="word_en_background">#0066FF</color>
+    <color name="zle">#CC0000</color>
+    <color name="dobrze">#00CC00</color>
+    <color name="tlo">#3366CC</color>
+    <color name="licznik_obw">#22D661</color>
+    <color name="start">#FFFF00</color>
+    <color name="pop_up_color">#FF9900</color>
+    <color name="czorny">#000000</color>
+</resources>
