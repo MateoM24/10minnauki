@@ -72,6 +72,7 @@ import java.util.List;
        //for (Slowo s : lista) {
         //    pom.setText(pom.getText() + "\n" + s.getNr() + s.getword_pl() +" "+s.getword_en()+ " " + s.getrating());
         //}
+        //test gita
     }
 
     @Override
